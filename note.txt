@@ -1,0 +1,3 @@
+- Khởi tạo dự án: git init
+
+- liên kết giữa local và remote: url()
